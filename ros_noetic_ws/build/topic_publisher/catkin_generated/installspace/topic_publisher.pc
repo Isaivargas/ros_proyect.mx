@@ -1,0 +1,8 @@
+prefix=/home/ros/ros_noetic_ws/install
+
+Name: topic_publisher
+Description: Description of topic_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
