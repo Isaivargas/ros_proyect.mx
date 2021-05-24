@@ -132,10 +132,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/ros/ros_noetic_ws/build/gtest/cmake_install.cmake")
   include("/home/ros/ros_noetic_ws/build/robot_asistant/cmake_install.cmake")
-  include("/home/ros/ros_noetic_ws/build/turtlebot3_simulations/turtlebot3_simulations/cmake_install.cmake")
-  include("/home/ros/ros_noetic_ws/build/topic_publisher/cmake_install.cmake")
-  include("/home/ros/ros_noetic_ws/build/turtlebot3_simulations/turtlebot3_fake/cmake_install.cmake")
-  include("/home/ros/ros_noetic_ws/build/turtlebot3_simulations/turtlebot3_gazebo/cmake_install.cmake")
 
 endif()
 

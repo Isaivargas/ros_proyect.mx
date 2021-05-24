@@ -1,0 +1,13 @@
+/home/ros/ros_noetic_ws/install/_setup_util.py
+/home/ros/ros_noetic_ws/install/env.sh
+/home/ros/ros_noetic_ws/install/setup.bash
+/home/ros/ros_noetic_ws/install/local_setup.bash
+/home/ros/ros_noetic_ws/install/setup.sh
+/home/ros/ros_noetic_ws/install/local_setup.sh
+/home/ros/ros_noetic_ws/install/setup.zsh
+/home/ros/ros_noetic_ws/install/local_setup.zsh
+/home/ros/ros_noetic_ws/install/.rosinstall
+/home/ros/ros_noetic_ws/install/lib/pkgconfig/robot_asistant.pc
+/home/ros/ros_noetic_ws/install/share/robot_asistant/cmake/robot_asistantConfig.cmake
+/home/ros/ros_noetic_ws/install/share/robot_asistant/cmake/robot_asistantConfig-version.cmake
+/home/ros/ros_noetic_ws/install/share/robot_asistant/package.xml

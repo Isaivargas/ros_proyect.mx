@@ -1,2 +1,2 @@
-robot_asistant:topic_publisher:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+robot_asistant
 -DCATKIN_DEVEL_PREFIX=/home/ros/ros_noetic_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ros/ros_noetic_ws/install -G Unix Makefiles
