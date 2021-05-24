@@ -19,7 +19,7 @@
 
     <include>
       <uri>model://office_coworking</uri>
-      <pose> 1 0.5 0 0 0 0</pose>
+      <pose> 0 0 0 0 0 0</pose>
     </include>
 
     <physics type="ode">
