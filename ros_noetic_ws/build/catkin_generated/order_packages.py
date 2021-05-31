@@ -2,4 +2,4 @@
 source_root_dir = '/home/ros/ros_noetic_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/ros/catkin_ws/devel;/opt/ros/noetic'.split(';') if '/home/ros/catkin_ws/devel;/opt/ros/noetic' != '' else []
+underlay_workspaces = '/home/ros/ros_noetic_ws/devel;/opt/ros/noetic'.split(';') if '/home/ros/ros_noetic_ws/devel;/opt/ros/noetic' != '' else []
