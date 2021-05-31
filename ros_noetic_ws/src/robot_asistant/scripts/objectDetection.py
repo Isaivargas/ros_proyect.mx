@@ -7,7 +7,6 @@ from sensor_msgs.msg import Image
 from cv_bridge import CvBridge, CvBridgeError
 import sys
 
-import nn
 
 bridge = CvBridge()
 
@@ -17,8 +16,6 @@ def image_callback(ros_image):
   #ros_image a opencv
   try:
     cv_image = bridge.imgmsg_to_cv2(ros_image, "bgr8")
-    nn.objectDetection(cv_image)
-    
   except CvBridgeError as e:
     print(e)
   #Ahora usamos lo que aprendimos de OpenCV
